@@ -1,4 +1,5 @@
 # Melody Mind - An Interactive Music Therapy Solution for Dementia Patients
+## Student No - IT21244698
 
 Melody Mind is a digital solution designed to enhance music therapy sessions for dementia patients, helping mitigate symptoms such as depression, anxiety, and mood changes. Traditional music therapy provides significant benefits, but active participation can amplify its impact. This project focuses on creating an interactive music therapy system that keeps patients engaged and attentive during sessions.
 
