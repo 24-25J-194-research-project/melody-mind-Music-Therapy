@@ -16,3 +16,48 @@ This repository contains the source code, model implementations, and documentati
 ## Technologies:
 - Frontend: Built with Flutter for a seamless and user-friendly experience.
 - Backend: Python with a Convolutional Neural Network (CNN) for clap detection.
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/24-25J-194-research-project/melody-mind-music-therapy.git
+```
+
+Go to the project directory
+
+```bash
+  cd melody mind music therapy
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Database migrations
+```bash
+  npx knex migrate:latest
+```
+
+Create a .env file in the root directory and add the following environment variables:
+```bash
+  PORT=
+  NODE_ENV=
+  NODE_PROD=
+  DB_HOST=
+  DB_PORT=
+  DB_USER=
+  DB_PASSWORD=
+  DB_NAME=
+```
+Start the server
+
+```bash
+  npm run dev
+```
+
+
